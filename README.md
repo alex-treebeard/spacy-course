@@ -40,6 +40,7 @@ some translations may still use and analyze English text as part of the course.
 
 ## 💁 FAQ
 
+
 #### Is this related to the spaCy course on DataCamp?
 
 I originally developed the content for DataCamp, but I wanted to make a free
